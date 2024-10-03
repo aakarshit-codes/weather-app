@@ -5,7 +5,6 @@ A simple weather forecast application built using React.js. This app fetches rea
 ### Features
 - Search for the current weather in any city worldwide.
 - Displays temperature, weather conditions (e.g., clear, cloudy), humidity, and wind speed.
-- Unit toggle: Switch between Celsius and Fahrenheit.
 - Error handling for invalid city searches.
 - Clean, simple UI with responsive design.
 
@@ -13,6 +12,7 @@ A simple weather forecast application built using React.js. This app fetches rea
 - React.js: Frontend framework used to build the application.
 - Axios: For making HTTP requests to the OpenWeather API.
 - OpenWeather API: For fetching real-time weather data.
+- Material-UI: For Clean, simple UI.
 
 ### Usage
 - Enter the city name into the input field.
